@@ -1,0 +1,14 @@
+Cloned a Repo in Eclipse
+Created a Java Project in Eclipse and pushed the project onto GitHub
+-	New Project -> Java Project
+-	Add Class
+-	Add code to the class
+-	Save all
+-	Rt click on the project
+-	Teams -> commit
+-	Select the repo name
+-	Find the files in the unstated area
+-	Drag and drop in the staged area
+-	Type a commit message
+-	Commit and push
+-	Find the files in GitHub repo

@@ -1,0 +1,62 @@
+cd gittest1
+ 1795  ls -la
+ 1796  git config --list
+ 1797  git branch
+ 1798  ls -la
+ 1799  nano Hello.java
+ 1800  git diff
+ 1801  git status
+ 1802  git add Hello.java
+ 1803  git status
+ 1804  git commit -am"made changes to Hello.java"
+ 1805  git push origin main
+ 1806  git push -f origin main
+ 1807  git branch dev1
+ 1808  git branch
+ 1809  git branch dev2
+ 1810  git branch
+ 1811  ls -la
+ 1812  git checkout dev1
+ 1813  git branch
+ 1814  ls -la
+ 1815  cat index.html
+ 1816  nano index.html
+ 1817  cat index.html
+ 1818  git add index.html
+ 1819  git commit -m "dev1 added code to index.html"
+ 1820  git status
+ 1821  git checkout main
+ 1822  git branch
+ 1823  git merge dev1
+ 1824  cat index.html
+ 1825  git checkout dev2
+ 1826  git branch
+ 1827  cat index.html
+ 1828  nano index.html
+ 1829  cat index.html
+ 1830  git add index.html
+ 1831  git commit -m "changes made by dev2 to index.html"
+ 1832  git checkout main
+ 1833  git branch
+ 1834  cat index.html
+ 1835  git merge dev2
+ 1836  sudo install mergeconflict
+ 1837  git install mergetool
+ 1838  sudo install mergetool
+ 1839  sudo install mergetool -y
+ 1840  sudo install mergetool --y
+ 1841  mergetool --version
+ 1842  git mergetool
+ 1843  cat index.html
+ 1844  git push -f origin main
+ 1845  git status'
+q
+ 1846  clear
+ 1847  git status
+ 1848  git add index.html
+ 1849  git commit -m"both dev code"
+ 1850  git push -f origin main
+ 1851  cat index.html.orig
+ 1852  ls -la
+ 1853  git status
+ 1854  history

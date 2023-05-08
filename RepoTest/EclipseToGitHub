@@ -5,7 +5,9 @@ Created a Java Project in Eclipse and pushed the project onto GitHub
 -	Add code to the class
 -	Save all
 -	Rt click on the project
--	Teams -> commit
+-	Team -> share project 
+Rt click
+- Team -> commit
 -	Select the repo name
 -	Find the files in the unstated area
 -	Drag and drop in the staged area
